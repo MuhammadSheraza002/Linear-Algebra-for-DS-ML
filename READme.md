@@ -1,6 +1,9 @@
 # Comprehensive Linear Algebra Course in Python
 
 Welcome to the Comprehensive Linear Algebra Course in Python repository! This course, curated by [Your Name], is designed to provide a thorough understanding of linear algebra concepts, mathematical representations, and practical implementations using Python.
+<img align="left" width="350" height="300"  src="images/ds1.png"  >
+<img align="center" width="400" height="250"  src="images/mathsandstat.jpeg"  >
+<img align="center" width="900" height="250"  src="images/mathimg1.png"  >
 
 ## Introduction
 
